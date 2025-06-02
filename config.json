@@ -1,1 +1,8 @@
-
+{
+  "OPENAI_API_KEY": "your-openai-key-here",
+  "DEFAULT_TOPIC": "cozy rain meditation",
+  "VIDEO_TITLE_PREFIX": "Take a break:",
+  "DESCRIPTION": "A moment to breathe, reset, and feel cozy.",
+  "CATEGORY_ID": "22",
+  "PRIVACY": "public"
+}
